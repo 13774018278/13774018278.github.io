@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dayofme.fun/"/>
-  <updated>2018-08-27T11:44:39.481Z</updated>
+  <updated>2018-08-27T11:54:34.319Z</updated>
   <id>http://dayofme.fun/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://dayofme.fun/2018/08/27/dd/"/>
+    <id>http://dayofme.fun/2018/08/27/dd/</id>
+    <published>2018-08-27T11:54:18.458Z</published>
+    <updated>2018-08-27T11:54:34.319Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img.hb.aicdn.com/18cdf3e589d0b85e9daf112c933475650abc9ff581b7a-rtgyFP_fw658" alt="黑岩给我力量"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://img.hb.aicdn.com/18cdf3e589d0b85e9daf112c933475650abc9ff581b7a-rtgyFP_fw658&quot; alt=&quot;黑岩给我力量&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="-life" scheme="http://dayofme.fun/categories/life/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>提前来学校</title>
